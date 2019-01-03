@@ -12,7 +12,8 @@ particle::particle(int xpos, int ypos) : sf::CircleShape(MAX_RADIUS) {
 	setPosition(xpos, ypos);
 
 	// will change how quickly the simulation runs
-	mass = getRadius() * (3.8555555 * pow(10, 4));
+	//mass = getRadius() * (3.8555555 * pow(10, 4.5));
+	mass = pow(3.8555555, getRadius());
 }
 
 void particle::moveGravity(particle other) {
