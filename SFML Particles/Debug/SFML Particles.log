@@ -1,0 +1,7 @@
+﻿  particle.cpp
+c:\users\raven\source\repos\sfml test\sfml particles\particle.h(20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\raven\source\repos\sfml test\sfml particles\particle.h(20): warning C4244: 'initializing': conversion from 'double' to 'const float', possible loss of data
+c:\users\raven\source\repos\sfml test\sfml particles\particle.cpp(10): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\raven\source\repos\sfml test\sfml particles\particle.cpp(12): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\raven\source\repos\sfml test\sfml particles\particle.cpp(14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SFML Particles.vcxproj -> C:\Users\Raven\source\repos\SFML Test\Debug\SFML Particles.exe
